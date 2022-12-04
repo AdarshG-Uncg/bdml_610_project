@@ -19,7 +19,7 @@ def reshape_and_fft(x):
     return ft3
 
 
-parent_path = r'/Users/adarsh/Documents/Image_reg_610/bdml_610_project/'
+parent_path = r'C:\Users\a_gadari\OneDrive - UNCG\Documents\bdml\'
 os.chdir(parent_path)
 
 print(os.getcwd())
